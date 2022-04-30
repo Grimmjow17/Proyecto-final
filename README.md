@@ -1,6 +1,6 @@
 # Proyecto-final
 
-Esta es una pagina web hecha en Visual Studio Code con HTML y CSS. Es un blog y en la parte inferior se registran los correos de quien se quiera suscribir.
+Esta es una pagina web hecha en Visual Studio Code con HTML y CSS. Es un vlog y en la parte inferior se registran los correos de quien se quiera suscribir.
 Se creo una base de datos en PHPmyadmin y se conecto a ella por medio de xampp y php.
 
 Me funciono bien en la computadora que lo hice inicialmente, pero cuando pase los scripts e hice la prueba en la mia PHP en VS Code no me funcionaba y por ende
